@@ -15,4 +15,10 @@ Clone the project to your local machine:
 ```bash
 git clone https://github.com/yourusername/hamming_brute_force.git
 cd hamming_brute_force
+```
+Install the required dependencies:
+```bash
+pip install -r requirements.txt
+```
+
 
