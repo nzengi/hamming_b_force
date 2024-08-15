@@ -16,4 +16,4 @@ def parallel_search(start_key, end_key, target_address, target_hamming_distance)
     # Bulunan sonuçlar
     for result in results:
         if result.get():
-            print(f"Found a match: {result.get()}")
+            print(f"Eşleşme bulundu: Özel Anahtar: {result.get():064x}")
